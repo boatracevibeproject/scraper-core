@@ -1,10 +1,10 @@
-# Scraper Core for Boatrace Venture Project
+# BVP Scraper Core
 
-[![keepalive](https://github.com/shimomo/bvp-scraper-core/actions/workflows/keepalive.yml/badge.svg)](https://github.com/shimomo/bvp-scraper-core/actions/workflows/keepalive.yml)
-[![psalm](https://github.com/shimomo/bvp-scraper-core/actions/workflows/psalm.yml/badge.svg)](https://github.com/shimomo/bvp-scraper-core/actions/workflows/psalm.yml)
-[![security](https://github.com/shimomo/bvp-scraper-core/actions/workflows/security.yml/badge.svg)](https://github.com/shimomo/bvp-scraper-core/actions/workflows/security.yml)
-[![test](https://github.com/shimomo/bvp-scraper-core/actions/workflows/test.yml/badge.svg)](https://github.com/shimomo/bvp-scraper-core/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/shimomo/bvp-scraper-core/graph/badge.svg?token=IZI1GDcqxw)](https://codecov.io/gh/shimomo/bvp-scraper-core)
+[![keepalive](https://github.com/boatracevibeproject/scraper-core/actions/workflows/keepalive.yml/badge.svg)](https://github.com/boatracevibeproject/scraper-core/actions/workflows/keepalive.yml)
+[![psalm](https://github.com/boatracevibeproject/scraper-core/actions/workflows/psalm.yml/badge.svg)](https://github.com/boatracevibeproject/scraper-core/actions/workflows/psalm.yml)
+[![security](https://github.com/boatracevibeproject/scraper-core/actions/workflows/security.yml/badge.svg)](https://github.com/boatracevibeproject/scraper-core/actions/workflows/security.yml)
+[![test](https://github.com/boatracevibeproject/scraper-core/actions/workflows/test.yml/badge.svg)](https://github.com/boatracevibeproject/scraper-core/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/boatracevibeproject/scraper-core/graph/badge.svg)](https://codecov.io/gh/boatracevibeproject/scraper-core)
 [![php](https://poser.pugx.org/bvp/scraper-core/require/php)](https://packagist.org/packages/bvp/scraper-core)
 [![stable](https://poser.pugx.org/bvp/scraper-core/v/stable)](https://packagist.org/packages/bvp/scraper-core)
 [![license](https://poser.pugx.org/bvp/scraper-core/license)](https://packagist.org/packages/bvp/scraper-core)
